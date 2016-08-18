@@ -1,0 +1,17 @@
+{
+    "name": "thegirlnextdoor-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/thegirlnextdoor-bower.git"
+    },
+    "description": "The Girl Next Door font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
